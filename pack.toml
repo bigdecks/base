@@ -1,0 +1,2431 @@
+title = "BigDeck Default"
+description = "The default cards for BigDeck."
+authors = ["BigDeck Authors"]
+homepage = "https://github.com/TheBerkin/bigdeck"
+
+# ============
+# ANSWER CARDS
+# ============
+
+[[cards]]
+type = 'a'
+text = "That one crusty sock."
+
+[[cards]]
+type = 'a'
+text = "Piss jugs."
+
+[[cards]]
+type = 'a'
+text = "Thomas the Tank Engine's gigantic iron dick."
+
+[[cards]]
+type = 'a'
+text = "The Elephant's Foot."
+
+[[cards]]
+type = 'a'
+text = "A high-speed projectile."
+
+[[cards]]
+type = 'a'
+text = "Patrick Stewart's silky-smooth head."
+
+[[cards]]
+type = 'a'
+text = "A doughnut filled with dog semen."
+
+[[cards]]
+type = 'a'
+text = "Post-mortem erection."
+
+[[cards]]
+type = 'a'
+text = "A vagina full of thumbtacks."
+
+[[cards]]
+type = 'a'
+text = "A hug that lasts way too long."
+
+[[cards]]
+type = 'a'
+text = "Jenkem."
+
+[[cards]]
+type = 'a'
+text = "A leather jacket made of human skin."
+
+[[cards]]
+type = 'a'
+text = "A 600lb naked man covered in butter."
+
+[[cards]]
+type = 'a'
+text = "Mario without a mustache."
+
+[[cards]]
+type = 'a'
+text = "A 2-liter bottle full of dead flies."
+
+[[cards]]
+type = 'a'
+text = "Absolutely scrumptious salmon."
+
+[[cards]]
+type = 'a'
+text = "Ed Sheeran's soulless gaze."
+
+[[cards]]
+type = 'a'
+text = "500 open tabs."
+
+[[cards]]
+type = 'a'
+text = "A coffee enema."
+
+[[cards]]
+type = 'a'
+text = "Inflation porn."
+
+[[cards]]
+type = 'a'
+text = "His supple skin."
+
+[[cards]]
+type = 'a'
+text = "Punching my boss in his dumb fucking face."
+
+[[cards]]
+type = 'a'
+text = "A freezer full of dead children."
+
+[[cards]]
+type = 'a'
+text = "Playing Twister against quadriplegics."
+
+[[cards]]
+type = 'a'
+text = "Vomiting mysterious black liquid."
+
+[[cards]]
+type = 'a'
+text = "Ominous background music."
+
+[[cards]]
+type = 'a'
+text = "Depressing ASPCA commercials."
+
+[[cards]]
+type = 'a'
+text = "Full-on civil war."
+
+[[cards]]
+type = 'a'
+text = "A wealthy Nigerian prince."
+
+[[cards]]
+type = 'a'
+text = "A bathtub full of live frogs."
+
+[[cards]]
+type = 'a'
+text = "A kettle full of boiling piss."
+
+[[cards]]
+type = 'a'
+text = "A limp handshake."
+
+[[cards]]
+type = 'a'
+text = "A touch of autism."
+
+[[cards]]
+type = 'a'
+text = "Forgetting to say \"No homo.\""
+
+[[cards]]
+type = 'a'
+text = "\"Forgetting\" to say \"No homo.\""
+
+[[cards]]
+type = 'a'
+text = "Overactive salivary glands."
+
+[[cards]]
+type = 'a'
+text = "A grass-stained asshole."
+
+[[cards]]
+type = 'a'
+text = "Hearing your parents having sex."
+
+[[cards]]
+type = 'a'
+text = "Nice veins."
+
+[[cards]]
+type = 'a'
+text = "Rectal prolapse."
+
+[[cards]]
+type = 'a'
+text = "Eating your lover's tonsil stones."
+
+[[cards]]
+type = 'a'
+text = "An ancient underground civilization."
+
+[[cards]]
+type = 'a'
+text = "An incredible amount of maggots."
+
+[[cards]]
+type = 'a'
+text = "Autoerotic asphyxiation."
+
+[[cards]]
+type = 'a'
+text = "Dark meat."
+
+[[cards]]
+type = 'a'
+text = "My long-lost brother."
+
+[[cards]]
+type = 'a'
+text = "Cumming and shitting and farting."
+
+[[cards]]
+type = 'a'
+text = "A faint, muffled cry from inside the oven."
+
+[[cards]]
+type = 'a'
+text = "A jar of toenail clippings."
+
+[[cards]]
+type = 'a'
+text = "Extreme sadistic tendencies."
+
+[[cards]]
+type = 'a'
+text = "A good slap."
+
+[[cards]]
+type = 'a'
+text = "A solid kick."
+
+[[cards]]
+type = 'a'
+text = "A toilet plunger with way too short of a handle."
+
+[[cards]]
+type = 'a'
+text = "A wet onion."
+
+[[cards]]
+type = 'a'
+text = "Resurrecting Hitler."
+
+[[cards]]
+type = 'a'
+text = "The guy who killed Hitler."
+
+[[cards]]
+type = 'a'
+text = "Impressive girth."
+
+[[cards]]
+type = 'a'
+text = "Daddy."
+
+[[cards]]
+type = 'a'
+text = "Good ol' fashioned missionary."
+
+[[cards]]
+type = 'a'
+text = "Just ten cents a day."
+
+[[cards]]
+type = 'a'
+text = "That moment when the balls touch."
+
+[[cards]]
+type = 'a'
+text = "Faking your death."
+
+[[cards]]
+type = 'a'
+text = "Chernobyl."
+
+[[cards]]
+type = 'a'
+text = "A steaming pile of spaghetti."
+
+[[cards]]
+type = 'a'
+text = "Funneling eggnog into my asshole."
+
+[[cards]]
+type = 'a'
+text = "The smell of burning hair."
+
+[[cards]]
+type = 'a'
+text = "A full colostomy bag."
+
+[[cards]]
+type = 'a'
+text = "An obscene amount of baby oil."
+
+[[cards]]
+type = 'a'
+text = "Death and taxes."
+
+[[cards]]
+type = 'a'
+text = "A warm glass of saliva."
+
+[[cards]]
+type = 'a'
+text = "Dill pickle flavored lube."
+
+[[cards]]
+type = 'a'
+text = "Dollar store meat."
+
+[[cards]]
+type = 'a'
+text = "These penis enlargement pills I bought off of Wish.com."
+
+[[cards]]
+type = 'a'
+text = "The shadowy figure standing behind you."
+
+[[cards]]
+type = 'a'
+text = "Benadryl-induced psychosis."
+
+[[cards]]
+type = 'a'
+text = "My drunk ass."
+
+[[cards]]
+type = 'a'
+text = "Jeff Bezos with hair."
+
+[[cards]]
+type = 'a'
+text = "A house made out of meat."
+
+[[cards]]
+type = 'a'
+text = "The unmistakable sound of coitus."
+
+[[cards]]
+type = 'a'
+text = "Forming my own cult in the middle of the desert."
+
+[[cards]]
+type = 'a'
+text = "British people."
+
+[[cards]]
+type = 'a'
+text = "A blinding beam of white light."
+
+[[cards]]
+type = 'a'
+text = "The surprise in the center."
+
+[[cards]]
+type = 'a'
+text = "The metric system."
+
+[[cards]]
+type = 'a'
+text = "A desiccated corpse."
+
+[[cards]]
+type = 'a'
+text = "Running a massive international drug empire."
+
+[[cards]]
+type = 'a'
+text = "A bigger dick than yours!"
+
+[[cards]]
+type = 'a'
+text = "Freezing to death."
+
+[[cards]]
+type = 'a'
+text = "Brazil."
+
+[[cards]]
+type = 'a'
+text = "A breast milk addiction."
+
+[[cards]]
+type = 'a'
+text = "Scuttling away sideways like a crab."
+
+[[cards]]
+type = 'a'
+text = "Ditching your autistic child in the forest."
+
+[[cards]]
+type = 'a'
+text = "A dead woman being slowly consumed by her 57 cats."
+
+[[cards]]
+type = 'a'
+text = "Breaking the silence with an ear-splitting, soul-shattering scream."
+
+[[cards]]
+type = 'a'
+text = "The gun under my pillow."
+
+[[cards]]
+type = 'a'
+text = "My last victim."
+
+[[cards]]
+type = 'a'
+text = "Ten consecutive generations of incest."
+
+[[cards]]
+type = 'a'
+text = "A perfectly preserved human ear."
+
+[[cards]]
+type = 'a'
+text = "His gleaming thorax."
+
+[[cards]]
+type = 'a'
+text = "A see-through toilet."
+
+[[cards]]
+type = 'a'
+text = "An armless, legless child wriggling around like a sad little grub."
+
+[[cards]]
+type = 'a'
+text = "The entire cast of Jersey Shore."
+
+[[cards]]
+type = 'a'
+text = "Losing the game."
+
+[[cards]]
+type = 'a'
+text = "Tongue-lashing the brown star."
+
+[[cards]]
+type = 'a'
+text = "Flicking a cat in the nuts."
+
+[[cards]]
+type = 'a'
+text = "A normal childhood."
+
+[[cards]]
+type = 'a'
+text = "Getting skinned alive."
+
+[[cards]]
+type = 'a'
+text = "Inflating his foreskin like a balloon."
+
+[[cards]]
+type = 'a'
+text = "Skull-fucking a corpse in the moonlight."
+
+[[cards]]
+type = 'a'
+text = "Letting out a villainous cackle and bursting into a cloud of bats."
+
+[[cards]]
+type = 'a'
+text = "Hilariously dying from helium asphyxiation."
+
+[[cards]]
+type = 'a'
+text = "Upholding the family's honor."
+
+[[cards]]
+type = 'a'
+text = "A huge mouth with many teeth and a big, terrible tongue."
+
+[[cards]]
+type = 'a'
+text = "Gender reveal parties."
+
+[[cards]]
+type = 'a'
+text = "Slowly and methodically peeling my skin off with a vegetable peeler."
+
+[[cards]]
+type = 'a'
+text = "A cat litter calzone."
+
+[[cards]]
+type = 'a'
+text = "Some damn good waffles."
+
+[[cards]]
+type = 'a'
+text = "Mormons."
+
+[[cards]]
+type = 'a'
+text = "A 256-man Macedonian phalanx."
+
+[[cards]]
+type = 'a'
+text = "My freezing-cold hands."
+
+[[cards]]
+type = 'a'
+text = "Rigor mortis."
+
+[[cards]]
+type = 'a'
+text = "Having fingers."
+
+[[cards]]
+type = 'a'
+text = "Entrails, everywhere."
+
+[[cards]]
+type = 'a'
+text = "Being chased by Alex Jones on a tiny Segway."
+
+[[cards]]
+type = 'a'
+text = "My sister's ass."
+
+[[cards]]
+type = 'a'
+text = "The perfect man."
+
+[[cards]]
+type = 'a'
+text = "Eating out grandma's dusty pussy."
+
+[[cards]]
+type = 'a'
+text = "Essential oils."
+
+[[cards]]
+type = 'a'
+text = "Licking the floor at a strip club."
+
+[[cards]]
+type = 'a'
+text = "A pasty white albino dick."
+
+[[cards]]
+type = 'a'
+text = "This entire bowling ball."
+
+[[cards]]
+type = 'a'
+text = "Beers, boobs, and beekeeping."
+
+[[cards]]
+type = 'a'
+text = "Long, dirty fingernails."
+
+[[cards]]
+type = 'a'
+text = "The French."
+
+[[cards]]
+type = 'a'
+text = "Shrek."
+
+[[cards]]
+type = 'a'
+text = "The thick, salty sludge in my kitchen sink drain."
+
+[[cards]]
+type = 'a'
+text = "A little squirt."
+
+[[cards]]
+type = 'a'
+text = "Being hairy as shit, all the way down to the asshole."
+
+[[cards]]
+type = 'a'
+text = "Putting mom in a nursing home."
+
+[[cards]]
+type = 'a'
+text = "Cramming an entire live pigeon headfirst into my mouth."
+
+[[cards]]
+type = 'a'
+text = "Affirmative action."
+
+[[cards]]
+type = 'a'
+text = "Being left out of the will."
+
+[[cards]]
+type = 'a'
+text = "A truly shocking amount of moths."
+
+[[cards]]
+type = 'a'
+text = "Feeling blessed."
+
+[[cards]]
+type = 'a'
+text = "So much blood."
+
+[[cards]]
+type = 'a'
+text = "A really gross mustache."
+
+[[cards]]
+type = 'a'
+text = "Being such a good boy."
+
+[[cards]]
+type = 'a'
+text = "Being pregnant."
+
+[[cards]]
+type = 'a'
+text = "A head-on collision at 120mph."
+
+[[cards]]
+type = 'a'
+text = "A debilitating foot fetish."
+
+[[cards]]
+type = 'a'
+text = "Shitting yourself on public transit."
+
+[[cards]]
+type = 'a'
+text = "Engorged wood ticks."
+
+[[cards]]
+type = 'a'
+text = "Fucking my therapist."
+
+[[cards]]
+type = 'a'
+text = "Finding out you're adopted."
+
+[[cards]]
+type = 'a'
+text = "More than my mouth can fit."
+
+[[cards]]
+type = 'a'
+text = "A tornado headed this way."
+
+[[cards]]
+type = 'a'
+text = "Bailing out Dad."
+
+[[cards]]
+type = 'a'
+text = "Human ashes."
+
+[[cards]]
+type = 'a'
+text = "Stabbing a straw into your man's ballsack and drinking it like a Capri Sun."
+
+[[cards]]
+type = 'a'
+text = "How good your hair smells."
+
+[[cards]]
+type = 'a'
+text = "This nice, heavy brick."
+
+[[cards]]
+type = 'a'
+text = "None of your bullshit."
+
+[[cards]]
+type = 'a'
+text = "Some real gay shit."
+
+[[cards]]
+type = 'a'
+text = "This whole tub of margarine."
+
+[[cards]]
+type = 'a'
+text = "A really big locust."
+
+[[cards]]
+type = 'a'
+text = "Snuggling with the homies."
+
+[[cards]]
+type = 'a'
+text = "Deliberately concentrating and inhaling the contents of this aerosol can."
+
+[[cards]]
+type = 'a'
+text = "Smiling through the pain."
+
+[[cards]]
+type = 'a'
+text = "Oncoming traffic."
+
+[[cards]]
+type = 'a'
+text = "Being born."
+
+[[cards]]
+type = 'a'
+text = "Your strong, capable hands."
+
+[[cards]]
+type = 'a'
+text = "Shitting in the litterbox like a good kitty."
+
+[[cards]]
+type = 'a'
+text = "Fun for the whole family!"
+
+[[cards]]
+type = 'a'
+text = "Cranking it up to the highest setting."
+
+[[cards]]
+type = 'a'
+text = "Too much fucking lettuce."
+
+[[cards]]
+type = 'a'
+text = "A salty aftertaste."
+
+[[cards]]
+type = 'a'
+text = "Multi-Level Marketing."
+
+[[cards]]
+type = 'a'
+text = "My younger, dumber self."
+
+[[cards]]
+type = 'a'
+text = "Not much to speak of."
+
+[[cards]]
+type = 'a'
+text = "The imperial system."
+
+[[cards]]
+type = 'a'
+text = "The vast, mysterious maw of darkness before me."
+
+[[cards]]
+type = 'a'
+text = "An creative use for peanut butter."
+
+[[cards]]
+type = 'a'
+text = "Being slowly crushed by a steamroller."
+
+[[cards]]
+type = 'a'
+text = "Ruining everything I touch."
+
+[[cards]]
+type = 'a'
+text = "Unresolved childhood trauma."
+
+[[cards]]
+type = 'a'
+text = "The wrong hole."
+
+[[cards]]
+type = 'a'
+text = "Crushing disappointment."
+
+[[cards]]
+type = 'a'
+text = "Enhanced interrogation techniques."
+
+[[cards]]
+type = 'a'
+text = "Mouthfeel."
+
+[[cards]]
+type = 'a'
+text = "Doing absolutely nothing at all."
+
+[[cards]]
+type = 'a'
+text = "Boob sweat."
+
+[[cards]]
+type = 'a'
+text = "A sudden, inexplicable feeling of sheer terror."
+
+[[cards]]
+type = 'a'
+text = "Not shutting up about Disney movies."
+
+[[cards]]
+type = 'a'
+text = "My irresistable feminine charm."
+
+[[cards]]
+type = 'a'
+text = "Biblically accurate angels."
+
+[[cards]]
+type = 'a'
+text = "The soothing aroma of natural gas."
+
+[[cards]]
+type = 'a'
+text = "An earth-shaking explosion."
+
+[[cards]]
+type = 'a'
+text = "Being extremely good at a niche hobby that everyone but you finds extremely weird."
+
+[[cards]]
+type = 'a'
+text = "Climbing the corporate ladder."
+
+[[cards]]
+type = 'a'
+text = "My invisible friend."
+
+[[cards]]
+type = 'a'
+text = "Solitaire."
+
+[[cards]]
+type = 'a'
+text = "Making everyone around you uncomfortable without realizing it."
+
+[[cards]]
+type = 'a'
+text = "Mild cannibalism."
+
+[[cards]]
+type = 'a'
+text = "Filling my mouth with expanding foam insulation."
+
+[[cards]]
+type = 'a'
+text = "Whoever keeps fucking with the thermostat."
+
+[[cards]]
+type = 'a'
+text = "Soul-crushing loneliness."
+
+[[cards]]
+type = 'a'
+text = "A complete loss for words."
+
+[[cards]]
+type = 'a'
+text = "This dog who won't stop humping my leg."
+
+[[cards]]
+type = 'a'
+text = "Not flossing."
+
+[[cards]]
+type = 'a'
+text = "9 out of 10 dentists."
+
+[[cards]]
+type = 'a'
+text = "Gastrointestinal distress."
+
+[[cards]]
+type = 'a'
+text = "Pumpkin spice."
+
+[[cards]]
+type = 'a'
+text = "The biggest one yet."
+
+[[cards]]
+type = 'a'
+text = "Unironically wearing a monocle."
+
+[[cards]]
+type = 'a'
+text = "A new world record."
+
+[[cards]]
+type = 'a'
+text = "Blowing his mind."
+
+[[cards]]
+type = 'a'
+text = "Intrusive thoughts."
+
+[[cards]]
+type = 'a'
+text = "The parasite currently burrowing its way up your spinal cord."
+
+[[cards]]
+type = 'a'
+text = "Being a little racist."
+
+[[cards]]
+type = 'a'
+text = "This sledgehammer."
+
+[[cards]]
+type = 'a'
+text = "Yet another Republican."
+
+[[cards]]
+type = 'a'
+text = "This bitch right here."
+
+[[cards]]
+type = 'a'
+text = "A fascination with knives."
+
+[[cards]]
+type = 'a'
+text = "Microplastics."
+
+[[cards]]
+type = 'a'
+text = "Testing the resilience of the human body."
+
+[[cards]]
+type = 'a'
+text = "Walking into the ocean and disappearing forever."
+
+[[cards]]
+type = 'a'
+text = "All 206 bones in the human body."
+
+[[cards]]
+type = 'a'
+text = "A spare kidney."
+
+[[cards]]
+type = 'a'
+text = "A missing kidney."
+
+[[cards]]
+type = 'a'
+text = "Taxidermy."
+
+[[cards]]
+type = 'a'
+text = "Getting buried alive."
+
+[[cards]]
+type = 'a'
+text = "An unhealthy obsession with astrology."
+
+[[cards]]
+type = 'a'
+text = "Multiple restraining orders."
+
+[[cards]]
+type = 'a'
+text = "Soup."
+
+[[cards]]
+type = 'a'
+text = "Burning hot lava."
+
+[[cards]]
+type = 'a'
+text = "Nobody, and everybody, at the same time."
+
+[[cards]]
+type = 'a'
+text = "Whoever listens to Nickelback."
+
+[[cards]]
+type = 'a'
+text = "Having a vision that reveals exactly how you will die."
+
+[[cards]]
+type = 'a'
+text = "A shapely cactus."
+
+[[cards]]
+type = 'a'
+text = "<i>Him.</i>"
+
+[[cards]]
+type = 'a'
+text = "A lot of fucking LSD."
+
+[[cards]]
+type = 'a'
+text = "All these stars."
+
+[[cards]]
+type = 'a'
+text = "Leaving this mortal coil, at long last."
+
+[[cards]]
+type = 'a'
+text = "The opening of my third eye."
+
+[[cards]]
+type = 'a'
+text = "Unidentified organic matter."
+
+[[cards]]
+type = 'a'
+text = "An old, rickety staircase that wasn't there before."
+
+[[cards]]
+type = 'a'
+text = "Going and going and going."
+
+[[cards]]
+type = 'a'
+text = "Jupiter."
+
+[[cards]]
+type = 'a'
+text = "Eternal suffering."
+
+[[cards]]
+type = 'a'
+text = "Big, beautiful insect-people."
+
+[[cards]]
+type = 'a'
+text = "No more pain."
+
+[[cards]]
+type = 'a'
+text = "Crying happy blood tears."
+
+[[cards]]
+type = 'a'
+text = "Losing the key to the chastity cage."
+
+[[cards]]
+type = 'a'
+text = "Getting a boner at a funeral."
+
+[[cards]]
+type = 'a'
+text = "Just enough cockroaches to cover my whole body."
+
+[[cards]]
+type = 'a'
+text = "Puncturing bloated roadkill and huffing the fumes."
+
+[[cards]]
+type = 'a'
+text = "Intestinal worms."
+
+[[cards]]
+type = 'a'
+text = "The voices."
+
+[[cards]]
+type = 'a'
+text = "Those crumbs all around your mouth."
+
+[[cards]]
+type = 'a'
+text = "The huge boil on my ass."
+
+[[cards]]
+type = 'a'
+text = "Clear intent to commit a crime."
+
+[[cards]]
+type = 'a'
+text = "Vore."
+
+[[cards]]
+type = 'a'
+text = "Mom's cooking."
+
+[[cards]]
+type = 'a'
+text = "Sloppy grandma kisses."
+
+[[cards]]
+type = 'a'
+text = "My stepmother."
+
+[[cards]]
+type = 'a'
+text = "Being under 6 feet tall."
+
+[[cards]]
+type = 'a'
+text = "Being really, really gay."
+
+[[cards]]
+type = 'a'
+text = "Straight people."
+
+[[cards]]
+type = 'a'
+text = "Slurred speech."
+
+[[cards]]
+type = 'a'
+text = "Mold, everywhere."
+
+[[cards]]
+type = 'a'
+text = "The part of me that gives a shit."
+
+[[cards]]
+type = 'a'
+text = "Having a rare lucid moment."
+
+[[cards]]
+type = 'a'
+text = "Cutting all my hair off."
+
+[[cards]]
+type = 'a'
+text = "Screaming like a banshee."
+
+[[cards]]
+type = 'a'
+text = "Mommy milkers."
+
+[[cards]]
+type = 'a'
+text = "Being a menace to society."
+
+[[cards]]
+type = 'a'
+text = "Pretending to laugh."
+
+[[cards]]
+type = 'a'
+text = "A pocketful of dreams."
+
+[[cards]]
+type = 'a'
+text = "Blood and vomit, everywhere."
+
+[[cards]]
+type = 'a'
+text = "Blunt-force trauma to the head."
+
+[[cards]]
+type = 'a'
+text = "Covering myself head to toe in Vaseline."
+
+[[cards]]
+type = 'a'
+text = "The same bullshit, day after day."
+
+[[cards]]
+type = 'a'
+text = "The bodies."
+
+[[cards]]
+type = 'a'
+text = "A good, strong stream."
+
+[[cards]]
+type = 'a'
+text = "Military wives."
+
+[[cards]]
+type = 'a'
+text = "The next President."
+
+[[cards]]
+type = 'a'
+text = "Your worst nightmare."
+
+[[cards]]
+type = 'a'
+text = "Saying yes to everything, regardless of the consequences."
+
+[[cards]]
+type = 'a'
+text = "Every bodily fluid combined."
+
+[[cards]]
+type = 'a'
+text = "The next global pandemic."
+
+[[cards]]
+type = 'a'
+text = "Literally anything that can accommodate a penis."
+
+[[cards]]
+type = 'a'
+text = "Penile fracture."
+
+[[cards]]
+type = 'a'
+text = "Another round of drinks!"
+
+[[cards]]
+type = 'a'
+text = "Getting absolutely plastered."
+
+[[cards]]
+type = 'a'
+text = "Recycling, like a responsible person who cares about the environment."
+
+[[cards]]
+type = 'a'
+text = "The smell of burning flesh."
+
+[[cards]]
+type = 'a'
+text = "This new candle I got."
+
+[[cards]]
+type = 'a'
+text = "The solution to all my problems."
+
+[[cards]]
+type = 'a'
+text = "Livestreaming yourself committing a felony."
+
+[[cards]]
+type = 'a'
+text = "One billion dollars."
+
+[[cards]]
+type = 'a'
+text = "Taking out loans with no intention of paying them back."
+
+[[cards]]
+type = 'a'
+text = "Too much."
+
+[[cards]]
+type = 'a'
+text = "That guy looking in the window right now."
+
+[[cards]]
+type = 'a'
+text = "A wood chipper."
+
+[[cards]]
+type = 'a'
+text = "Partial decapitation."
+
+[[cards]]
+type = 'a'
+text = "A room full of furries."
+
+[[cards]]
+type = 'a'
+text = "Enough ketamine to kill an elephant."
+
+[[cards]]
+type = 'a'
+text = "Just the right amount of cilantro."
+
+[[cards]]
+type = 'a'
+text = "Being a woman."
+
+[[cards]]
+type = 'a'
+text = "Coming to terms with the inevitability of death."
+
+[[cards]]
+type = 'a'
+text = "Ripping the skin off my face to reveal the true face underneath."
+
+[[cards]]
+type = 'a'
+text = "Being a nasty little freak."
+
+[[cards]]
+type = 'a'
+text = "Saying \"Please.\""
+
+[[cards]]
+type = 'a'
+text = "Sticking my dick in a hornets' nest."
+
+[[cards]]
+type = 'a'
+text = "The sound of shoving one's hand into a bowl of wet pasta."
+
+[[cards]]
+type = 'a'
+text = "Wyoming."
+
+[[cards]]
+type = 'a'
+text = "Anything but <i>that!</i>"
+
+[[cards]]
+type = 'a'
+text = "The next internet shock image."
+
+[[cards]]
+type = 'a'
+text = "Arms hairy enough to rival a gorilla."
+
+[[cards]]
+type = 'a'
+text = "A shot of adrenaline."
+
+[[cards]]
+type = 'a'
+text = "Sniffing glue."
+
+[[cards]]
+type = 'a'
+text = "Drinking bleach."
+
+[[cards]]
+type = 'a'
+text = "All this wine I drank."
+
+[[cards]]
+type = 'a'
+text = "Lucid dreaming."
+
+[[cards]]
+type = 'a'
+text = "Calling 911."
+
+[[cards]]
+type = 'a'
+text = "All these cops outside the house."
+
+[[cards]]
+type = 'a'
+text = "Being prepared for every possible outcome."
+
+[[cards]]
+type = 'a'
+text = "Living in a cave."
+
+[[cards]]
+type = 'a'
+text = "Having every possible disease at once."
+
+[[cards]]
+type = 'a'
+text = "A block of cream cheese."
+
+[[cards]]
+type = 'a'
+text = "Christmas music way too fucking early."
+
+[[cards]]
+type = 'a'
+text = "Vomiting into my neighbor's flowerpot."
+
+[[cards]]
+type = 'a'
+text = "Feces from an unknown animal."
+
+[[cards]]
+type = 'a'
+text = "A SpongeBob porn parody."
+
+[[cards]]
+type = 'a'
+text = "The Twin Towers."
+
+[[cards]]
+type = 'a'
+text = "An large collection of horse heads."
+
+[[cards]]
+type = 'a'
+text = "An early-morning flight."
+
+[[cards]]
+type = 'a'
+text = "My creepy-ass basement."
+
+[[cards]]
+type = 'a'
+text = "A glittery 9-inch dildo."
+
+[[cards]]
+type = 'a'
+text = "Keeping it in the family."
+
+[[cards]]
+type = 'a'
+text = "Listening to Lynyrd Skynyrd."
+
+[[cards]]
+type = 'a'
+text = "My friend's racist dad."
+
+[[cards]]
+type = 'a'
+text = "My disgusting feet."
+
+[[cards]]
+type = 'a'
+text = "Biting your ankle."
+
+[[cards]]
+type = 'a'
+text = "Drinking the sacred elixir within a magic 8-ball."
+
+[[cards]]
+type = 'a'
+text = "A brand-new mental illness."
+
+[[cards]]
+type = 'a'
+text = "<i>Mmm...</i> yes, that spot right there."
+
+[[cards]]
+type = 'a'
+text = "The bottom of the well."
+
+[[cards]]
+type = 'a'
+text = "Medical debt."
+
+[[cards]]
+type = 'a'
+text = "Having a large online following."
+
+[[cards]]
+type = 'a'
+text = "A few centipedes."
+
+[[cards]]
+type = 'a'
+text = "My huge jar of fingernail clippings."
+
+[[cards]]
+type = 'a'
+text = "The horrible truth."
+
+[[cards]]
+type = 'a'
+text = "This chunk of uranium."
+
+[[cards]]
+type = 'a'
+text = "A splash of red wine, for good measure."
+
+[[cards]]
+type = 'a'
+text = "Being universally hated."
+
+[[cards]]
+type = 'a'
+text = "The birth of a new species."
+
+[[cards]]
+type = 'a'
+text = "Disappointing my parents."
+
+[[cards]]
+type = 'a'
+text = "A toilet about to overflow, which you are powerless to stop."
+
+[[cards]]
+type = 'a'
+text = "Shitting in reverse."
+
+[[cards]]
+type = 'a'
+text = "A turd hanging by a single hair from a dog's quivering anus."
+
+[[cards]]
+type = 'a'
+text = "<i>Exclusive</i> bonus footage!"
+
+[[cards]]
+type = 'a'
+text = "Being smarter than you."
+
+[[cards]]
+type = 'a'
+text = "Small parts not suitable for children under three years."
+
+[[cards]]
+type = 'a'
+text = "Turning it off and on again."
+
+[[cards]]
+type = 'a'
+text = "Masturbating at the dinner table."
+
+[[cards]]
+type = 'a'
+text = "The Heimlich maneuver."
+
+[[cards]]
+type = 'a'
+text = "Razor-sharp teeth."
+
+[[cards]]
+type = 'a'
+text = "My sinuses."
+
+[[cards]]
+type = 'a'
+text = "Molting."
+
+[[cards]]
+type = 'a'
+text = "A collective consciousness."
+
+[[cards]]
+type = 'a'
+text = "My annoying step-aunt."
+
+[[cards]]
+type = 'a'
+text = "Shedding all the hair from my body at once."
+
+[[cards]]
+type = 'a'
+text = "My true form."
+
+[[cards]]
+type = 'a'
+text = "A lit match."
+
+[[cards]]
+type = 'a'
+text = "My poor butthole."
+
+[[cards]]
+type = 'a'
+text = "A dog collar with a bell on it."
+
+[[cards]]
+type = 'a'
+text = "The upstairs neighbor."
+
+[[cards]]
+type = 'a'
+text = "What used to be the upstairs neighbor."
+
+[[cards]]
+type = 'a'
+text = "An unsafe kitchen appliance."
+
+[[cards]]
+type = 'a'
+text = "Fucking the electrician."
+
+[[cards]]
+type = 'a'
+text = "More! MORE!"
+
+[[cards]]
+type = 'a'
+text = "A perfectly smooth ballsack."
+
+[[cards]]
+type = 'a'
+text = "Too much aftershave."
+
+[[cards]]
+type = 'a'
+text = "Illiteracy."
+
+[[cards]]
+type = 'a'
+text = "Having parents who care about you."
+
+[[cards]]
+type = 'a'
+text = "This flesh vessel."
+
+[[cards]]
+type = 'a'
+text = "Old pee smell."
+
+[[cards]]
+type = 'a'
+text = "A really nasty rash."
+
+[[cards]]
+type = 'a'
+text = "Forgetting to flush."
+
+[[cards]]
+type = 'a'
+text = "Veterans' discounts."
+
+[[cards]]
+type = 'a'
+text = "A steady diet of live rodents."
+
+[[cards]]
+type = 'a'
+text = "Removing a hangnail and stripping the skin off your entire finger in the process."
+
+[[cards]]
+type = 'a'
+text = "My big, shiny mandibles."
+
+[[cards]]
+type = 'a'
+text = "Eight hours of country music."
+
+[[cards]]
+type = 'a'
+text = "Regretting that Tweet."
+
+[[cards]]
+type = 'a'
+text = "The FBI's extensive file on you."
+
+[[cards]]
+type = 'a'
+text = "Surprise... Termites!"
+
+[[cards]]
+type = 'a'
+text = "Our missing child."
+
+[[cards]]
+type = 'a'
+text = "Unfiltered internet access."
+
+[[cards]]
+type = 'a'
+text = "Hot dog paste."
+
+[[cards]]
+type = 'a'
+text = "Having no eyebrows."
+
+[[cards]]
+type = 'a'
+text = "Jehovah's Witnesses."
+
+[[cards]]
+type = 'a'
+text = "A fever of 105 degrees."
+
+[[cards]]
+type = 'a'
+text = "Trickle-down economics."
+
+[[cards]]
+type = 'a'
+text = "The biggest bag of almonds you've ever seen."
+
+[[cards]]
+type = 'a'
+text = "Waterboarding with raw sewage."
+
+[[cards]]
+type = 'a'
+text = "Orange juice and toothpaste."
+
+[[cards]]
+type = 'a'
+text = "Grandma's famous casserole."
+
+[[cards]]
+type = 'a'
+text = "A weirdly hot car dealership mascot."
+
+[[cards]]
+type = 'a'
+text = "A bucket full of foreskins."
+
+[[cards]]
+type = 'a'
+text = "Monster fuckers."
+
+[[cards]]
+type = 'a'
+text = "Taint sweat."
+
+[[cards]]
+type = 'a'
+text = "Master."
+
+[[cards]]
+type = 'a'
+text = "Rhino pussy."
+
+[[cards]]
+type = 'a'
+text = "A millipede crawling up your urethra."
+
+[[cards]]
+type = 'a'
+text = "Shooting the neighbor's dog."
+
+[[cards]]
+type = 'a'
+text = "A mouthful of dryer lint."
+
+[[cards]]
+type = 'a'
+text = "Fred Rogers."
+
+[[cards]]
+type = 'a'
+text = "Horse meat."
+
+[[cards]]
+type = 'a'
+text = "An enormously obese cat."
+
+[[cards]]
+type = 'a'
+text = "Having friends."
+
+[[cards]]
+type = 'a'
+text = "Being a big blubbering bitch."
+
+[[cards]]
+type = 'a'
+text = "The fungus currently growing out of my nose."
+
+[[cards]]
+type = 'a'
+text = "Puking everywhere but in the toilet."
+
+[[cards]]
+type = 'a'
+text = "The nightly rimjob."
+
+[[cards]]
+type = 'a'
+text = "Eating really spicy food."
+
+[[cards]]
+type = 'a'
+text = "Wet bread."
+
+[[cards]]
+type = 'a'
+text = "Overt racism."
+
+[[cards]]
+type = 'a'
+text = "The things that have been in this mouth."
+
+[[cards]]
+type = 'a'
+text = "Feeding you from my mouth like a baby bird."
+
+[[cards]]
+type = 'a'
+text = "Every man within a 10-mile radius."
+
+[[cards]]
+type = 'a'
+text = "Not reporting you missing."
+
+[[cards]]
+type = 'a'
+text = "Another man's rectum."
+
+[[cards]]
+type = 'a'
+text = "A photogenic butthole."
+
+[[cards]]
+type = 'a'
+text = "Making everyone else's business my own business."
+
+[[cards]]
+type = 'a'
+text = "A lick directly in the ear."
+
+[[cards]]
+type = 'a'
+text = "Hyperventilating out of nowhere."
+
+[[cards]]
+type = 'a'
+text = "Sudden cardiac death."
+
+[[cards]]
+type = 'a'
+text = "The turkey baster in my nightstand."
+
+[[cards]]
+type = 'a'
+text = "Being God."
+
+[[cards]]
+type = 'a'
+text = "Brown mucus."
+
+[[cards]]
+type = 'a'
+text = "Abnormally large thumbs."
+
+[[cards]]
+type = 'a'
+text = "Coordinating outfits."
+
+[[cards]]
+type = 'a'
+text = "An overactive bladder."
+
+[[cards]]
+type = 'a'
+text = "Soggy toilet paper."
+
+[[cards]]
+type = 'a'
+text = "Seasonal depression."
+
+[[cards]]
+type = 'a'
+text = "Muscular calves."
+
+[[cards]]
+type = 'a'
+text = "My probation officer."
+
+[[cards]]
+type = 'a'
+text = "Following the laws of physics."
+
+[[cards]]
+type = 'a'
+text = "Eating styrofoam."
+
+[[cards]]
+type = 'a'
+text = "A lot of spandex."
+
+[[cards]]
+type = 'a'
+text = "Cultivating mushrooms in my taint."
+
+[[cards]]
+type = 'a'
+text = "My best white girl voice."
+
+[[cards]]
+type = 'a'
+text = "A suicide note."
+
+[[cards]]
+type = 'a'
+text = "Nonstop moaning."
+
+[[cards]]
+type = 'a'
+text = "Tasting my own cum."
+
+[[cards]]
+type = 'a'
+text = "Fisting but with feet."
+
+[[cards]]
+type = 'a'
+text = "Pet ownership."
+
+[[cards]]
+type = 'a'
+text = "The trout population."
+
+[[cards]]
+type = 'a'
+text = "Abandonment issues."
+
+[[cards]]
+type = 'a'
+text = "My favorite wife so far."
+
+[[cards]]
+type = 'a'
+text = "All this money I made from selling drugs."
+
+[[cards]]
+type = 'a'
+text = "The boundless depravity of internet users."
+
+[[cards]]
+type = 'a'
+text = "Traumatic childhood memories."
+
+[[cards]]
+type = 'a'
+text = "Being clinically insane."
+
+[[cards]]
+type = 'a'
+text = "Being mentally unfit to stand trial."
+
+[[cards]]
+type = 'a'
+text = "Gaslighting."
+
+[[cards]]
+type = 'a'
+text = "A complete lack of social skills."
+
+[[cards]]
+type = 'a'
+text = "Vaping cum."
+
+[[cards]]
+type = 'a'
+text = "The Fourth Reich."
+
+[[cards]]
+type = 'a'
+text = "The good sauce."
+
+[[cards]]
+type = 'a'
+text = "Realizing you have fingers."
+
+[[cards]]
+type = 'a'
+text = "Synthetic weed."
+
+[[cards]]
+type = 'a'
+text = "Evil-smelling sick person farts."
+
+[[cards]]
+type = 'a'
+text = "Anal squirting."
+
+[[cards]]
+type = 'a'
+text = "Going bananas for some gorilla dick."
+
+[[cards]]
+type = 'a'
+text = "A spoonful of mayonnaise rolled in cat litter."
+
+[[cards]]
+type = 'a'
+text = "Ruining my good china!"
+
+[[cards]]
+type = 'a'
+text = "Num-nums for my tum-tum!"
+
+[[cards]]
+type = 'a'
+text = "Collateral damage."
+
+[[cards]]
+type = 'a'
+text = "An A+ rating by the Better Business Bureau."
+
+[[cards]]
+type = 'a'
+text = "Unlimited ammo."
+
+[[cards]]
+type = 'a'
+text = "A permanent shit-stain."
+
+[[cards]]
+type = 'a'
+text = "Baby powder made from real babies."
+
+[[cards]]
+type = 'a'
+text = "Being entitled to significant financial compensation."
+
+[[cards]]
+type = 'a'
+text = "Chloroform."
+
+[[cards]]
+type = 'a'
+text = "The widespread historical use of arsenic in medicine."
+
+[[cards]]
+type = 'a'
+text = "Taking a huge wet shit."
+
+[[cards]]
+type = 'a'
+text = "Embalming as a competitive sport."
+
+[[cards]]
+type = 'a'
+text = "Waking up during open heart surgery."
+
+[[cards]]
+type = 'a'
+text = "DIY appendix removal."
+
+[[cards]]
+type = 'a'
+text = "Tubal ligation."
+
+[[cards]]
+type = 'a'
+text = "My special lasagna recipe."
+
+[[cards]]
+type = 'a'
+text = "400 pounds of sand."
+
+[[cards]]
+type = 'a'
+text = "Asbestos."
+
+[[cards]]
+type = 'a'
+text = "A can of gasoline, a lighter, and a plan."
+
+[[cards]]
+type = 'a'
+text = "Lactose intolerance."
+
+[[cards]]
+type = 'a'
+text = "Not taking your meds."
+
+[[cards]]
+type = 'a'
+text = "Joining a cult for fun."
+
+
+# ==============
+# QUESTION CARDS
+# ==============
+
+[[cards]]
+type = 'q'
+text = "Life comes at you fast... first it's ________, then it's straight to ________."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "What is the most heroic way to die?"
+
+[[cards]]
+type = 'q'
+text = "What's making that noise in my trunk?"
+
+[[cards]]
+type = 'q'
+text = "What's the secret to being an amazing cook?"
+
+[[cards]]
+type = 'q'
+text = "You're not you when you're hungry. Have ________."
+
+[[cards]]
+type = 'q'
+text = "When you really think about it, ________ isn't too different from ________."
+
+[[cards]]
+type = 'q'
+text = "<i>Yes!</i> I did it!\nI've invented a machine that converts ________ to ________.\nI'm gonna be rich!"
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "Our forests are disappearing at a shocking rate, all due to the skyrocketing global demand for ________."
+
+[[cards]]
+type = 'q'
+text = "Guys only care about ________, and it's fucking disgusting."
+
+[[cards]]
+type = 'q'
+text = "These days, you can't walk ten feet outside without seeing ________, and it makes me sick!"
+
+[[cards]]
+type = 'q'
+text = "Damn it, son! Didn't we talk about not bringing ________ in the house?!"
+
+[[cards]]
+type = 'q'
+text = "Gentlemen… <i>Behold!</i>\nMy latest glorious creation, \"________\"!"
+
+[[cards]]
+type = 'q'
+text = "Nothing says \"________\" like ________."
+
+[[cards]]
+type = 'q'
+text = "Today's forecast:\nPartly cloudy, high of 70\u00b0, with a slight chance of _________ in the evening."
+
+[[cards]]
+type = 'q'
+text = "If there's anything to be learned from ________, it's that ________ is never a good idea."
+
+[[cards]]
+type = 'q'
+text = "Quick Baking Tip:\nFor an extra moist cake, toss in a little bit of ________!"
+
+[[cards]]
+type = 'q'
+text = "I worry about a lot of things, but ________ isn't one of them."
+
+[[cards]]
+type = 'q'
+text = "I lost 30 pounds in 30 days, all thanks to ________!"
+
+[[cards]]
+type = 'q'
+text = "________ is the second leading cause of death worldwide, right behind ________."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "Never underestimate a person with _________."
+
+[[cards]]
+type = 'q'
+text = "My dream last night was nuts! I was trapped in ________, had to fight off ________, then suddenly I was killed by ________!"
+draw = 2
+pick = 3
+
+[[cards]]
+type = 'q'
+text = "The fools!\nThey told me it couldn't be done.\nThey told me I couldn't combine ________ with ________.\nNow I'll prove them all wrong!"
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "Happiness is ________."
+
+[[cards]]
+type = 'q'
+text = "__________.\nIt never gets old!"
+
+[[cards]]
+type = 'q'
+text = "What's the hottest new trend everyone's talking about?"
+
+[[cards]]
+type = 'q'
+text = "_______ hurts a lot more than I expected it to."
+
+[[cards]]
+type = 'q'
+text = "What's entertaining as a child but questionable in retrospect?"
+
+[[cards]]
+type = 'q'
+text = "The future is meaningless, but ________ is now."
+
+[[cards]]
+type = 'q'
+text = "Modern technology has finally made ________ possible, but it comes with the unfortunate tradeoff of ________."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "_________.\nDamned if you do, damned if you don't."
+
+[[cards]]
+type = 'q'
+text = "I don't care what anyone else thinks! Anybody who's ________ deserves ________!"
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "I was a difficult child; I absolutely refused to fall asleep without ________."
+
+[[cards]]
+type = 'q'
+text = "Every night, I pray for ________.\nAnd every morning, I'm sorely disappointed."
+
+[[cards]]
+type = 'q'
+text = "What's the real reason aliens haven't contacted us?"
+
+[[cards]]
+type = 'q'
+text = "Wow, that smells great! Whatcha cooking?"
+
+[[cards]]
+type = 'q'
+text = "Nobody ever thought they'd see me, _______. Well, today's the day I make that happen!"
+
+[[cards]]
+type = 'q'
+text = "Why was I permanently banned from Walmart?"
+
+[[cards]]
+type = 'q'
+text = "We both firmly believe in saving _________ until marriage. No exceptions!"
+
+[[cards]]
+type = 'q'
+text = "Police are now handing out tickets to people for _______ while driving."
+
+[[cards]]
+type = 'q'
+text = "9 out of 10 doctors now agree that a daily dose of _______ may reduce the risk of heart disease."
+
+[[cards]]
+type = 'q'
+text = "In my mind, anyone who's _______ is a damn hero."
+
+[[cards]]
+type = 'q'
+text = "For just one easy payment of $19.95, you too can be a proud owner of _______!"
+
+[[cards]]
+type = 'q'
+text = "Mommy, mommy! I just saw daddy and he was _______!"
+
+[[cards]]
+type = 'q'
+text = "Honey, did you order this? We just got this weird package and it's ________."
+
+[[cards]]
+type = 'q'
+text = "To meet new federal requirements, high school freshmen are now required to take a course on _______."
+
+[[cards]]
+type = 'q'
+text = "This might sound crazy, but every time I start my car, the inside starts smelling like _______!"
+
+[[cards]]
+type = 'q'
+text = "As a hazing ritual, my local fraternity chapter forces new members to eat _______."
+
+[[cards]]
+type = 'q'
+text = "It might sound like a good idea, but I can tell you from experience that _______ makes a <i>terrible</i> egg substitute."
+
+[[cards]]
+type = 'q'
+text = "After sex, my favorite thing to do is ________."
+
+[[cards]]
+type = 'q'
+text = "Nothing's better than the smell of _______ in the morning."
+
+[[cards]]
+type = 'q'
+text = "What's the most obvious sign a date isn't going well?"
+
+[[cards]]
+type = 'q'
+text = "Nothing warms my heart quite like seeing _______."
+
+[[cards]]
+type = 'q'
+text = "When Christmas morning came, the kids ran excitedly to their stockings, only to find them filled with ________."
+
+[[cards]]
+type = 'q'
+text = "Despite what my friends might tell you, I have never liked ______."
+
+[[cards]]
+type = 'q'
+text = "________: A delicious part of a complete breakfast."
+
+[[cards]]
+type = 'q'
+text = "Every once in a while, I like to indulge in a little bit of _______."
+
+[[cards]]
+type = 'q'
+text = "Have a bad cold? For quick and easy relief, try ________!"
+
+[[cards]]
+type = 'q'
+text = "Nothing is more disappointing than expecting _______, but receiving _______."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "What never fails to ruin the party?"
+
+[[cards]]
+type = 'q'
+text = "What should you never bring to a child's birthday party?"
+
+[[cards]]
+type = 'q'
+text = "McDonald's received widespread backlash for its controversial TV ad featuring _______."
+
+[[cards]]
+type = 'q'
+text = "What did I find in my soup?"
+
+[[cards]]
+type = 'q'
+text = "What can money never buy?"
+
+[[cards]]
+type = 'q'
+text = "All the news stations are now reporting on the latest drug craze among teens: ________."
+
+[[cards]]
+type = 'q'
+text = "It's crazy what you can buy online these days! Did you know Amazon sells ________ now?"
+
+[[cards]]
+type = 'q'
+text = "Oh, him? He doesn't talk much... Not since the whole \"________\" incident..."
+
+[[cards]]
+type = 'q'
+text = "One person's trash is another person's treasure. For instance, I turned ________ into ________!"
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "I swear I'm not crazy, doctor! Even now, I can see ________ and hear ________!"
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "As it turns out, the light at the end of the tunnel is really just ________."
+
+[[cards]]
+type = 'q'
+text = "What's at the center of the universe?"
+
+[[cards]]
+type = 'q'
+text = "I never believed in a higher power until I experienced ________ firsthand."
+
+[[cards]]
+type = 'q'
+text = "According to popular superstition, seeing _______ is considered a bad omen."
+
+[[cards]]
+type = 'q'
+text = "Recent studies have revealed a strong link between ________ and ________."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "Proposals these days are crazy. I know someone who hid their engagement ring inside ________!"
+
+[[cards]]
+type = 'q'
+text = "To honor his dying wish, my grandfather was buried with ________ in his coffin."
+
+[[cards]]
+type = 'q'
+text = "What's that in my dog's mouth?!"
+
+[[cards]]
+type = 'q'
+text = "Nothing is worse than finding _______ in your mailbox."
+
+[[cards]]
+type = 'q'
+text = "The gravitational pull from _______ is so strong, not even light itself can escape."
+
+[[cards]]
+type = 'q'
+text = "My parents were scarred for life when they walked in on me while I was _______."
+
+[[cards]]
+type = 'q'
+text = "What is a punishment as a child but a reward as an adult?"
+
+[[cards]]
+type = 'q'
+text = "_______ - _______ = _______."
+draw = 2
+pick = 3
+
+[[cards]]
+type = 'q'
+text = "Lisa had always been a bit withdrawn, but it came as a shock to her neighbors when she was arrested for ________."
+
+[[cards]]
+type = 'q'
+text = "My bucket list:\n1) Travel the world.\n2) Go skydiving.\n3) ________."
+
+[[cards]]
+type = 'q'
+text = "Now that I've graduated from art school, I can finally be ________!"
+
+[[cards]]
+type = 'q'
+text = "Any man can be a father, but it takes someone special to be ________."
+
+[[cards]]
+type = 'q'
+text = "They say that ________ is the most pain that a human can endure."
+
+[[cards]]
+type = 'q'
+text = "Sex is nice and all, but have you ever tried ________?"
+
+[[cards]]
+type = 'q'
+text = "My DNA test results came back... Turns out I'm 25% ________!"
+
+[[cards]]
+type = 'q'
+text = "What's that, Officer? No, that's not ________. That's ________."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "The world really needs a lot less of ________ and a lot more of ________."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "What's a foolproof way to settle an argument?"
+
+[[cards]]
+type = 'q'
+text = "Call me old-fashioned, but I prefer the days when ________ was commonplace!"
+
+[[cards]]
+type = 'q'
+text = "Some stains are <i>impossible</i> to get out! Word of advice, never try ________ over carpet!"
+
+[[cards]]
+type = 'q'
+text = "Trust me, kid, don't try ________. It'll catch up to you later in life."
+
+[[cards]]
+type = 'q'
+text = "Whatever you do, don't go in the woods behind the house&mdash; ________ lurks there."
+
+[[cards]]
+type = 'q'
+text = "I could NEVER date someone who doesn't appreciate ________ the way I do."
+
+[[cards]]
+type = 'q'
+text = "The autopsy confirmed what we knew all along: the victim died from ________."
+
+[[cards]]
+type = 'q'
+text = "What dirty secret would instantly ruin my career if it came out?"
+
+[[cards]]
+type = 'q'
+text = "Most of the time, ________ the direct result of ________."
+pick = 2
+
+[[cards]]
+type = 'q'
+text = "No matter how hard you try, ________ is never a substitute for ________."
+pick = 2
